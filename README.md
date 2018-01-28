@@ -1,4 +1,4 @@
-Yahoo! Cloud System Benchmark (YCSB) Binding for 
+Yahoo! Cloud System Benchmark (YCSB) Binding for Couch DB
 ====================================
 [![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
 
