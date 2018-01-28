@@ -1,0 +1,4 @@
+com/yahoo/ycsb/db/couchdb/NoNodeReacheableException.class
+com/yahoo/ycsb/db/couchdb/LoadBalancedConnector.class
+com/yahoo/ycsb/db/couchdb/StringToStringMap.class
+com/yahoo/ycsb/db/couchdb/CouchdbClient.class
